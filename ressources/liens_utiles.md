@@ -1,3 +1,0 @@
-Présentation des outils 
-#Liens utiles du cours
--Colab, pandas, Matplotlib...
